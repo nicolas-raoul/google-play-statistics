@@ -8,6 +8,7 @@ If you find interesting things, publish a thesis or build something using the da
 
 ## Why publish statistics?
 
-For research purposes. Since I started publishing insight about my statistics, I started receiving many requests asking for more data, so here is all of the data. Such open data can be useful to PhD students, marketing researchers, statisticians, data enthusiasts.
+1. To allow data enthusiasts to find interesting patterns in your data. For instance, would you be interested in knowing that a particular version of your app triggered a sudden ratings drop with users that have a particular screen size? That can help you identify problems and make your app better.
+2. Since I started publishing insight about my statistics, I started receiving many requests from researchers, statisticians and PhD students asking for more data, so here is all of it.
 
 If you own an app and want to add your statistics here, you are very welcome, please check [Publish my Google Play statistics](https://github.com/nicolas-raoul/publish-my-google-play-statistics) or contact me, thanks! 

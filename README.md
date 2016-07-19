@@ -1,6 +1,6 @@
 # Google Play statistics
 
-Google Play statistics of a few Android apps. Click [here](https://github.com/nicolas-raoul/google-play-statistics/archive/master.zip) to download the whole data (about 2 gigabytes).
+Google Play statistics of a few Android apps. Click [here](https://github.com/nicolas-raoul/google-play-statistics/archive/master.zip) to download the whole data (about 170 MB zipped, 2 GB unzipped).
 
 I believe this data does not contain any confidential information, but if you find any please let me know immediately, thank you!
 
